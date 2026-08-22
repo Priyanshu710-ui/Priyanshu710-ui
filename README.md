@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2563EB,100:7C3AED&height=220&section=header&text=PRIYANSHU.EXE&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20BUILDER%20%E2%80%A2%20CREATIVE%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:2563EB,100:7C3AED&height=220&section=header&text=PRIYANSHU&fontSize=64&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20AI%20BUILDER%20%E2%80%A2%20CREATIVE%20ENGINEER&descAlignY=60&animation=fadeIn" />
 
-<a href="https://priyanshu710-ui.github.io/Portfolio/"><img src="https://img.shields.io/badge/◉_ENTER_PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://priyanshu710-ui.github.io/Portfolio/"><img src="https://img.shields.io/badge/◉_VIEW_PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/Priyanshu710-ui"><img src="https://img.shields.io/badge/GitHub-Priyanshu710--ui-181717?style=for-the-badge&logo=github" /></a>
 <a href="https://leetcode.com/u/Priyanshhu710/"><img src="https://img.shields.io/badge/LeetCode-Priyanshhu710-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=I+build+things+that+people+want+to+play+with.;AI+%C3%97+Computer+Vision+%C3%97+3D+Web.;From+idea+%E2%86%92+prototype+%E2%86%92+something+real." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+AI-powered+products+and+interactive+web+experiences.;Software+engineering+with+a+focus+on+AI%2C+3D%2C+and+real-world+products.;From+idea+%E2%86%92+prototype+%E2%86%92+production." />
 
 </div>
 
@@ -20,29 +20,33 @@
 
 ## 👨‍💻 WHO AM I?
 
+### Priyanshu — Software Developer & AI Builder
+
+I build **practical AI systems, full-stack products, and interactive web experiences** with a focus on turning ambitious ideas into polished, usable software.
+
 ```yaml
-name: Priyanshu Sharma
-role: Software Developer & AI Builder
+focus: AI + Full-Stack Development
+specialties: Agentic AI, RAG, Computer Vision, 3D Web
+building: Interactive AI products and creative developer experiences
+mindset: Build with purpose. Ship with quality. Keep improving.
 location: India 🇮🇳
-currently: Building interactive AI experiences
-mindset: Ship first. Improve forever.
 ```
 
-I’m obsessed with the space where **code becomes an experience** — AI that feels useful, computer vision you can interact with, and websites that don't look like every other website.
+I enjoy the space where **engineering meets experience** — products that are technically strong, visually engaging, and genuinely useful.
 
 </td>
 <td width="42%" valign="top" align="center">
 
-### ⚡ STATUS
+### ⚡ CURRENT STATUS
 
 ```text
-🟢 SYSTEM ONLINE
+🟢 ONLINE
 
-BUILDING      ██████████
-LEARNING      ██████████
-EXPERIMENTING ██████████
+BUILDING       ██████████
+LEARNING       ██████████
+EXPERIMENTING  ██████████
 
-NEXT QUEST → SHIP BIGGER
+FOCUS → BUILD • SHIP • ITERATE
 ```
 
 </td>
@@ -53,9 +57,9 @@ NEXT QUEST → SHIP BIGGER
 
 <div align="center">
 
-# 🧪 SELECTED BUILDS
+# 🚀 SELECTED BUILDS
 
-### Not tutorial projects. Things I wanted to exist.
+### Real projects across AI, computer vision, 3D web, and full-stack engineering.
 
 </div>
 
@@ -64,25 +68,25 @@ NEXT QUEST → SHIP BIGGER
 <td width="50%" valign="top">
 
 ### 🖐️ FIBER HANDS
-**Move your hand. Bend the interface.**
+**Hand tracking meets interactive graphics.**
 
-A real-time webcam experience where hand tracking transforms fingertip movement into glowing digital fibers.
+A real-time webcam experience where fingertip movement controls glowing digital fibers.
 
 `JavaScript` · `Canvas` · `MediaPipe` · `Computer Vision`
 
-[**↗ EXPLORE PROJECT**](https://github.com/Priyanshu710-ui/fiber-hand)
+[**↗ VIEW PROJECT**](https://github.com/Priyanshu710-ui/fiber-hand)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🪐 ARCADE HANDS
-**A 3D universe controlled by gestures.**
+**Gesture-controlled 3D interaction.**
 
-Natural hand movement becomes navigation, zoom, focus, and interaction inside a solar system.
+Natural hand movement becomes navigation, zoom, focus, and interaction inside a 3D solar-system experience.
 
 `Three.js` · `WebGL` · `MediaPipe` · `JavaScript`
 
-[**↗ EXPLORE PROJECT**](https://github.com/Priyanshu710-ui/Arcade-hands)
+[**↗ VIEW PROJECT**](https://github.com/Priyanshu710-ui/Arcade-hands)
 
 </td>
 </tr>
@@ -90,25 +94,25 @@ Natural hand movement becomes navigation, zoom, focus, and interaction inside a 
 <td width="50%" valign="top">
 
 ### 🎨 PIXELFORGE
-**Screenshot → AI → Editable UI.**
+**Screenshot → AI → editable interface.**
 
-Drop in an interface screenshot, generate a starting point with AI vision, then iterate using natural language.
+A creative developer tool that uses AI vision to turn interface screenshots into an editable starting point.
 
 `React` · `Vite` · `FastAPI` · `Gemini Vision`
 
-[**↗ EXPLORE PROJECT**](https://github.com/Priyanshu710-ui/PixelForge)
+[**↗ VIEW PROJECT**](https://github.com/Priyanshu710-ui/PixelForge)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 AI RESEARCH AGENT
-**Question in. Structured research out.**
+**Question → research → structured output.**
 
-An agentic workflow designed around planning, searching, synthesizing, and producing useful research.
+An agentic workflow for planning, searching, synthesizing, citing, and producing useful research.
 
 `Next.js` · `FastAPI` · `Gemini` · `Docker`
 
-[**↗ EXPLORE PROJECT**](https://github.com/Priyanshu710-ui/AI-Research-Agent)
+[**↗ VIEW PROJECT**](https://github.com/Priyanshu710-ui/AI-Research-Agent)
 
 </td>
 </tr>
@@ -116,25 +120,25 @@ An agentic workflow designed around planning, searching, synthesizing, and produ
 <td width="50%" valign="top">
 
 ### 📄 AI PDF Q&A
-**Talk to your documents.**
+**Ask questions. Retrieve context. Get grounded answers.**
 
-A document question-answering project exploring retrieval and LLM-powered responses.
+A document Q&A application exploring retrieval pipelines and LLM-powered responses.
 
-`Python` · `RAG` · `LLMs`
+`Python` · `RAG` · `FAISS` · `LLMs`
 
-[**↗ EXPLORE PROJECT**](https://github.com/Priyanshu710-ui/-AI-Powered-PDF-Q-A-Tool)
+[**↗ VIEW PROJECT**](https://github.com/Priyanshu710-ui/-AI-Powered-PDF-Q-A-Tool)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎙️ REAL-TIME AI VOICE
-**Speak. Think. Respond.**
+**Voice interaction designed for real-time systems.**
 
-An experimental project exploring real-time voice interaction with AI systems.
+An experimental voice pipeline exploring local AI, conversational interaction, and responsive audio systems.
 
-`AI` · `Voice` · `Real-Time Systems`
+`Python` · `AI` · `Voice` · `Real-Time Systems`
 
-[**↗ EXPLORE PROJECT**](https://github.com/Priyanshu710-ui/Real-Time-AI-Voice-Chat)
+[**↗ VIEW PROJECT**](https://github.com/Priyanshu710-ui/Real-Time-AI-Voice-Chat)
 
 </td>
 </tr>
@@ -144,7 +148,7 @@ An experimental project exploring real-time voice interaction with AI systems.
 
 <div align="center">
 
-# 🧬 TECH DNA
+# 🧬 TECH STACK
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,tailwind,vite,threejs,fastapi,docker,git,github,vercel&perline=15" />
 
@@ -161,7 +165,7 @@ An experimental project exploring real-time voice interaction with AI systems.
 
 <div align="center">
 
-# 📡 GITHUB TELEMETRY
+# 📊 GITHUB ACTIVITY
 
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=Priyanshu710-ui&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&icon_color=58A6FF" />
 <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu710-ui&hide_border=true&background=0D1117&ring=7C3AED&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
@@ -176,24 +180,24 @@ An experimental project exploring real-time voice interaction with AI systems.
 
 <div align="center">
 
-# 🎯 CURRENT QUEST
+# 🎯 WHAT I’M WORKING TOWARD
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  [01] BUILD       Interactive AI products                    │
+│  [01] BUILD       Production-ready AI products              │
 │  [02] MASTER      Data Structures & Algorithms               │
 │  [03] EXPLORE     Computer Vision + 3D Web                   │
-│  [04] SHIP        Bigger full-stack experiences              │
+│  [04] SHIP        Bigger, more polished full-stack systems   │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-### 💭 My rule
-> **If it can be imagined, prototype it. If it works, ship it. If it fails, learn from it.**
+### 💭 Engineering principle
+> **Build useful things. Make them feel great. Ship them. Learn from every iteration.**
 
 <br/>
 
-<a href="https://priyanshu710-ui.github.io/Portfolio/"><img src="https://img.shields.io/badge/ENTER_THE_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Priyanshhu710/"><img src="https://img.shields.io/badge/LET'S_SOLVE_ON_LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://priyanshu710-ui.github.io/Portfolio/"><img src="https://img.shields.io/badge/VIEW_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Priyanshhu710/"><img src="https://img.shields.io/badge/LEETCODE-Priyanshhu710-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 <br/><br/>
 
