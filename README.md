@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,55:312E81,80:6D28D9,100:EC4899&height=280&section=header&text=PRIYANSHU%20SHARMA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20BUILDER%20%E2%80%A2%20FULL-STACK%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=61&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,55:312E81,80:6D28D9,100:EC4899&height=280&section=header&text=PRIYANSHU&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20BUILDER%20%E2%80%A2%20FULL-STACK%20DEVELOPER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=61&animation=fadeIn" />
 
 <a href="https://priyanshu710-ui.github.io/Portfolio/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20PORTFOLIO-7C3AED?style=for-the-badge&labelColor=111827" /></a>
 <a href="https://github.com/Priyanshu710-ui"><img src="https://img.shields.io/badge/%E2%9A%A1%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -228,12 +228,12 @@ FULL-STACK / SOFTWARE
 
 # 📊 GITHUB PULSE
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Priyanshu710-ui&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&icon_color=8B5CF6&include_all_commits=true&rank_icon=github" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu710-ui&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Priyanshu710-ui&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=FFFFFF&icon_color=8B5CF6&include_all_commits=true&rank_icon=github" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu710-ui&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF" />
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu710-ui&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=EC4899&area=true&hide_border=true" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu710-ui&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=EC4899&area=true&hide_border=true" />
 
 </div>
 
