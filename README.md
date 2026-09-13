@@ -229,7 +229,7 @@ FULL-STACK / SOFTWARE
 # 📊 GITHUB PULSE
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Priyanshu710-ui&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=FFFFFF&icon_color=8B5CF6&include_all_commits=true&rank_icon=github" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu710-ui&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF" />
+<img height="180" src="https://streak-stats.demolab.com/?user=Priyanshu710-ui&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9CA3AF" />
 
 <br/><br/>
 
@@ -268,20 +268,20 @@ SQL                    ██████████████████░
 
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
-│  BUILD                                                        │
-│  └─ Turn ideas into working products                          │
+│  BUILD                                                         │
+│  └─ Turn ideas into working products                           │
 │                                                                 │
-│  LEARN                                                        │
-│  └─ Understand the systems underneath the tools               │
+│  LEARN                                                         │
+│  └─ Understand the systems underneath the tools                │
 │                                                                 │
-│  EXPERIMENT                                                   │
-│  └─ Try unusual ideas across AI, vision, and 3D              │
+│  EXPERIMENT                                                    │
+│  └─ Try unusual ideas across AI, vision, and 3D               │
 │                                                                 │
-│  SHIP                                                         │
-│  └─ Prefer real projects over endless tutorials               │
+│  SHIP                                                          │
+│  └─ Prefer real projects over endless tutorials                │
 │                                                                 │
-│  REPEAT                                                       │
-│  └─ Make the next build better than the last                  │
+│  REPEAT                                                        │
+│  └─ Make the next build better than the last                   │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
