@@ -228,7 +228,15 @@ FULL-STACK / SOFTWARE
 
 # 📊 GITHUB PULSE
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Priyanshu710-ui&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=FFFFFF&icon_color=8B5CF6&include_all_commits=true&rank_icon=github" />
+<a href="https://github.com/Priyanshu710-ui">
+<img src="https://img.shields.io/github/followers/Priyanshu710-ui?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=7C3AED&labelColor=111827" />
+</a>
+<a href="https://github.com/Priyanshu710-ui?tab=repositories">
+<img src="https://img.shields.io/github/repos/Priyanshu710-ui?label=PUBLIC%20REPOS&style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=111827" />
+</a>
+<a href="https://github.com/Priyanshu710-ui">
+<img src="https://img.shields.io/github/stars/Priyanshu710-ui?affiliations=OWNER&label=STARS&style=for-the-badge&logo=github&logoColor=white&color=EC4899&labelColor=111827" />
+</a>
 
 <br/><br/>
 
@@ -236,7 +244,9 @@ FULL-STACK / SOFTWARE
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu710-ui&bg_color=0D1117&color=FFFFFF&line=8B5CF6&point=EC4899&area=true&hide_border=true" />
+<a href="https://github.com/Priyanshu710-ui">
+<img src="https://img.shields.io/badge/VIEW%20FULL%20GITHUB%20ACTIVITY-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
@@ -255,10 +265,10 @@ I'm actively sharpening the fundamentals behind good engineering through consist
 ```text
 ARRAYS & STRINGS      ████████████████████
 LINKED LISTS          ███████████████████░
-TREES                  █████████████████░░░
-GRAPHS                 ████████████████░░░░
+TREES                 █████████████████░░░
+GRAPHS                ████████████████░░░░
 DYNAMIC PROGRAMMING   ███████████████░░░░░
-SQL                    ██████████████████░░
+SQL                   ██████████████████░░
 ```
 
 ---
