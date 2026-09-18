@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".5" stop-color="#0b1028"/><stop offset="1" stop-color="#12051f"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00f5ff"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#ff2bd6"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#7c3aed" stop-opacity=".45"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="7"/></filter>
+  <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#7dd3fc" stroke-opacity=".09"/></pattern>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+    .sans{font-family:Inter,ui-sans-serif,system-ui,sans-serif}
+  </style>
+</defs>
+<rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="518" rx="27" fill="url(#grid)" stroke="#334155"/>
+<circle cx="160" cy="100" r="210" fill="url(#glow)" filter="url(#blur)"/>
+<circle cx="1030" cy="390" r="250" fill="#ec4899" opacity=".13" filter="url(#blur)"/>
+<path d="M-40 420C190 220 320 570 540 350S900 130 1240 300" fill="none" stroke="url(#neon)" stroke-width="2" opacity=".75"/>
+<path d="M-40 438C190 238 320 588 540 368S900 148 1240 318" fill="none" stroke="#00f5ff" stroke-width="1" opacity=".22" filter="url(#soft)"/>
+<g opacity=".8">
+ <circle cx="170" cy="150" r="3" fill="#00f5ff"/><circle cx="1010" cy="105" r="3" fill="#ff2bd6"/><circle cx="1090" cy="280" r="2" fill="#a78bfa"/><circle cx="870" cy="80" r="2" fill="#00f5ff"/>
+</g>
+<g class="mono" fill="#94a3b8" font-size="14">
+ <text x="70" y="68">PRIYANSHU710-UI // PROFILE_OS</text>
+ <text x="70" y="92" fill="#475569">────────────────────────────────────────────────────────</text>
+ <text x="930" y="68" fill="#22d3ee">● ONLINE</text>
+</g>
+<g class="mono" font-size="13">
+ <rect x="70" y="120" width="330" height="205" rx="16" fill="#020617" fill-opacity=".68" stroke="#334155"/>
+ <circle cx="94" cy="144" r="5" fill="#fb7185"/><circle cx="112" cy="144" r="5" fill="#fbbf24"/><circle cx="130" cy="144" r="5" fill="#34d399"/>
+ <text x="90" y="178" fill="#64748b">$ whoami</text>
+ <text x="90" y="203" fill="#e2e8f0">PRIYANSHU</text>
+ <text x="90" y="230" fill="#64748b">$ mission</text>
+ <text x="90" y="255" fill="#22d3ee">build → break → learn → ship</text>
+ <text x="90" y="282" fill="#64748b">$ domains</text>
+ <text x="90" y="307" fill="#c4b5fd">AI · WEB · VISION · 3D · DSA</text>
+</g>
+<g class="sans" text-anchor="middle">
+ <text x="760" y="190" fill="#e2e8f0" font-size="26" font-weight="700" letter-spacing="7">AI BUILDER</text>
+ <text x="760" y="265" fill="#ffffff" font-size="76" font-weight="900" letter-spacing="-3">PRIYANSHU</text>
+ <text x="760" y="302" fill="#94a3b8" font-size="17" letter-spacing="3">FULL-STACK · AI · CREATIVE ENGINEERING</text>
+</g>
+<g class="mono" font-size="12">
+ <rect x="580" y="350" width="360" height="42" rx="21" fill="#0f172a" stroke="#334155"/>
+ <circle cx="604" cy="371" r="6" fill="#22d3ee"/>
+ <text x="620" y="376" fill="#cbd5e1">shipping ideas into real products</text>
+</g>
+<g class="mono" font-size="11" fill="#64748b">
+ <text x="70" y="475">SYSTEMS / AGENTS / RAG / COMPUTER VISION / WEBGL / PRODUCT</text>
+ <text x="1070" y="475" text-anchor="end">v2.0</text>
+</g>
+</svg>
